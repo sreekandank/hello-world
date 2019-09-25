@@ -1,0 +1,10 @@
+Exceptions
+ -What is exception?
+   Abnormal situations
+ -Pbm?
+ -What happends if not handled?
+ -How Handled?
+      try, catch
+      throws - method
+      throw (Custom)
+      finally - cleanup code - closing the connection, stream, etc.
