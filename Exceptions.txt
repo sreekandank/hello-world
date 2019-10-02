@@ -1,5 +1,5 @@
 Exceptions
- -What is exception?
+ -What is exception
    Abnormal situations
  -Pbm?
  -What happends if not handled?
